@@ -8,6 +8,6 @@ public class GameSaper {
         InitSaper.fillMines(field,level);
         InitSaper.printGameField(field);
 
-        System.out.println();
+        System.out.println(args);
     }
 }
